@@ -13,6 +13,8 @@ In this lesson, we will continue with orchestration from where we left off in th
 
 We will also dive into the concept of data testing, which is an important part of data quality management. We will use `Great Expectations`, an open-source library for data testing.
 
+![Overview](./assets/data_testing.png)
+
 ---
 
 
